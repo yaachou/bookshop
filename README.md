@@ -1,2 +1,0 @@
-# bookshop
-J2EE
